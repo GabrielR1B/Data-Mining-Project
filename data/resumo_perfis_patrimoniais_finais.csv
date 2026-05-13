@@ -1,0 +1,35 @@
+estrato_final;cluster_final_codigo;perfil_patrimonial_final;n_candidatos;patrimonio_mediano;patrimonio_medio;patrimonio_p25;patrimonio_p75;qtd_bens_mediana;qtd_bens_media;qtd_macros_media;concentracao_media
+Alto patrimônio;alto_k9_c1;Alto patrimônio - imobiliário concentrado;1832;22205598.5;30529060.1;14146786.75;40113243.0;5.0;6.37;2.59;0.78
+Alto patrimônio;alto_k9_c3;Alto patrimônio - imobiliário rural agropecuário;611;26000000.0;34642528.82;15775000.0;47333666.5;8.0;9.92;3.85;0.55
+Alto patrimônio;alto_k9_c2;Alto patrimônio - imobiliário financeiro créditos direitos misto;482;32066501.0;37555780.6;17627036.0;51960416.25;9.0;10.73;4.3;0.57
+Alto patrimônio;alto_k9_c6;Alto patrimônio - imobiliário financeiro;384;25663259.5;34848070.02;15474107.25;48896109.0;8.0;9.57;4.12;0.62
+Alto patrimônio;alto_k9_c5;Alto patrimônio - financeiro societário;347;21391675.0;28558041.88;14514062.5;35315639.0;4.0;6.56;2.33;0.82
+Alto patrimônio;alto_k9_c7;Alto patrimônio - imobiliário societário;271;24780117.0;32031865.43;15317140.0;41118164.0;8.0;8.94;3.48;0.51
+Alto patrimônio;alto_k9_c4;Alto patrimônio - imobiliário rural agropecuário financeiro misto mais concentrado;192;28244319.5;35912249.77;16596809.5;50955844.5;11.0;12.1;5.07;0.49
+Alto patrimônio;alto_k9_c8;Alto patrimônio - imobiliário rural agropecuário financeiro misto mais diversificado;192;36064147.5;42441961.63;21047616.0;61641352.75;14.0;15.92;5.59;0.45
+Alto patrimônio;alto_k9_c0;Alto patrimônio - veicular imobiliário;173;16047335.0;20152830.23;11973758.0;22751509.0;5.0;6.56;2.94;0.58
+Baixo patrimônio;baixo_k8_c0;Baixo patrimônio - veicular concentrado;2017;292270.0;344731.93;150000.0;500000.0;1.0;1.23;1.02;1.0
+Baixo patrimônio;baixo_k8_c1;Baixo patrimônio - imobiliário concentrado;693;630000.0;617140.78;400000.0;830000.0;1.0;1.37;1.24;0.95
+Baixo patrimônio;baixo_k8_c6;Baixo patrimônio - veicular financeiro;652;550000.0;544054.42;320448.5;760916.75;3.0;2.99;2.24;0.64
+Baixo patrimônio;baixo_k8_c3;Baixo patrimônio - financeiro concentrado;552;99427.5;211839.6;20000.0;329662.5;1.0;1.78;1.08;0.99
+Baixo patrimônio;baixo_k8_c7;Baixo patrimônio - dinheiro espécie outros ativos;409;90000.0;171631.31;30000.0;200000.0;1.0;1.12;1.05;0.99
+Baixo patrimônio;baixo_k8_c2;Baixo patrimônio - societário concentrado;343;200000.0;357709.74;99000.0;600000.0;1.0;1.4;1.19;0.95
+Baixo patrimônio;baixo_k8_c4;Baixo patrimônio - rural agropecuário veicular;88;629880.0;618185.23;414900.0;835000.0;2.0;2.2;1.82;0.75
+Baixo patrimônio;baixo_k8_c5;Baixo patrimônio - créditos direitos financeiro;52;509355.5;465352.42;143353.0;728088.0;2.0;2.75;2.12;0.71
+Patrimônio intermediário;intermediario_k10_c0;Patrimônio intermediário - imobiliário concentrado com veicular;2239;3350000.0;3898538.79;2100000.0;5225500.0;3.0;2.92;2.09;0.73
+Patrimônio intermediário;intermediario_k10_c5;Patrimônio intermediário - imobiliário concentrado com outros ativos;1750;2800000.0;3468453.72;1800000.0;4508892.0;1.0;1.58;1.18;0.98
+Patrimônio intermediário;intermediario_k10_c6;Patrimônio intermediário - imobiliário financeiro;944;4449166.0;4803598.35;2730000.25;6728727.0;4.0;5.0;3.0;0.59
+Patrimônio intermediário;intermediario_k10_c7;Patrimônio intermediário - imobiliário misto;652;4576506.5;4945881.4;2867125.0;6820802.5;5.0;6.09;3.49;0.53
+Patrimônio intermediário;intermediario_k10_c1;Patrimônio intermediário - veicular concentrado;521;1748084.0;2457901.19;1294000.0;2858160.0;2.0;2.55;1.48;0.89
+Patrimônio intermediário;intermediario_k10_c2;Patrimônio intermediário - imobiliário rural agropecuário;499;5439900.0;5441071.68;3393571.0;7444160.0;5.0;5.63;3.44;0.47
+Patrimônio intermediário;intermediario_k10_c8;Patrimônio intermediário - financeiro concentrado;498;2601391.0;3515849.35;1645650.0;4780652.0;3.0;3.77;1.85;0.79
+Patrimônio intermediário;intermediario_k10_c4;Patrimônio intermediário - societário concentrado;361;2345960.0;3284543.28;1510000.0;4379266.0;3.0;3.07;1.91;0.76
+Patrimônio intermediário;intermediario_k10_c3;Patrimônio intermediário - créditos direitos misto;282;4542670.5;4900636.05;2705071.0;6760762.5;5.0;5.63;3.42;0.55
+Patrimônio intermediário;intermediario_k10_c9;Patrimônio intermediário - rural agropecuário concentrado;224;3364580.0;4042382.86;1947250.0;5962500.0;2.0;2.53;1.9;0.79
+Ultra-alto patrimônio;ultra_k7_c2;Ultra alto patrimônio - imobiliário financeiro com societário;330;174298679.0;306053305.39;125642570.75;290943165.75;14.0;17.62;4.08;0.7
+Ultra-alto patrimônio;ultra_k7_c0;Ultra alto patrimônio - imobiliário financeiro com rural agropecuário;172;182120332.0;424951428.35;133098288.25;304618461.0;23.0;26.73;5.83;0.6
+Ultra-alto patrimônio;ultra_k7_c3;Ultra alto patrimônio - créditos direitos misto;112;261137176.5;995906242.84;140923265.0;706261388.0;20.0;25.39;5.74;0.48
+Ultra-alto patrimônio;ultra_k7_c1;Ultra alto patrimônio - rural agropecuário imobiliário;104;176628293.5;356346235.36;132416702.5;281509429.5;17.0;20.66;4.33;0.58
+Ultra-alto patrimônio;ultra_k7_c6;Ultra alto patrimônio - imobiliário misto;93;206173452.0;466508901.48;140266116.0;481818015.0;21.0;26.29;5.18;0.54
+Ultra-alto patrimônio;ultra_k7_c5;Ultra alto patrimônio - societário concentrado;76;291240263.5;3371487287.24;146774216.5;751973798.75;11.5;17.79;4.03;0.72
+Ultra-alto patrimônio;ultra_k7_c4;Ultra alto patrimônio - imobiliário concentrado;72;161368476.0;195243932.17;131102897.75;215801298.25;7.0;8.24;2.71;0.9
