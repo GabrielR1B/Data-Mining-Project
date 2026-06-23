@@ -1,0 +1,10 @@
+﻿estrato;perfil_cluster;candidatos;eleitos;taxa_eleicao
+01_baixo;Baixo patrimônio - financeiro concentrado;690;42;0.06086956521739131
+01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;427;15;0.0351288056206089
+02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;360;48;0.13333333333333333
+02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;289;34;0.11764705882352941
+02_medio_baixo;Patrimônio médio-baixo - societário + veicular;326;21;0.06441717791411043
+02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;364;13;0.03571428571428571
+03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;392;77;0.19642857142857142
+03_medio_alto;Patrimônio médio-alto - veicular diversificado;398;74;0.18592964824120603
+04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;474;141;0.2974683544303797

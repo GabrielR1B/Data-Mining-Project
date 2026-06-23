@@ -1,0 +1,197 @@
+﻿variavel;estrato;perfil_cluster;categoria;eleitos_cluster_categoria;eleitos_cluster;perc_eleitos_cluster
+DS_COR_RACA;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;BRANCA;110;141;0.7801418439716312
+DS_COR_RACA;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;PARDA;25;141;0.1773049645390071
+DS_COR_RACA;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;PRETA;3;141;0.02127659574468085
+DS_COR_RACA;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;NÃO INFORMADO;2;141;0.014184397163120567
+DS_COR_RACA;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;AMARELA;1;141;0.0070921985815602835
+DS_COR_RACA;01_baixo;Baixo patrimônio - financeiro concentrado;BRANCA;30;42;0.7142857142857143
+DS_COR_RACA;01_baixo;Baixo patrimônio - financeiro concentrado;PRETA;6;42;0.14285714285714285
+DS_COR_RACA;01_baixo;Baixo patrimônio - financeiro concentrado;PARDA;5;42;0.11904761904761904
+DS_COR_RACA;01_baixo;Baixo patrimônio - financeiro concentrado;INDÍGENA;1;42;0.023809523809523808
+DS_COR_RACA;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;PARDA;8;15;0.5333333333333333
+DS_COR_RACA;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;BRANCA;6;15;0.4
+DS_COR_RACA;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;PRETA;1;15;0.06666666666666667
+DS_COR_RACA;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;BRANCA;56;77;0.7272727272727273
+DS_COR_RACA;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;PARDA;18;77;0.23376623376623376
+DS_COR_RACA;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;AMARELA;1;77;0.012987012987012988
+DS_COR_RACA;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;INDÍGENA;1;77;0.012987012987012988
+DS_COR_RACA;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;PRETA;1;77;0.012987012987012988
+DS_COR_RACA;03_medio_alto;Patrimônio médio-alto - veicular diversificado;BRANCA;53;74;0.7162162162162162
+DS_COR_RACA;03_medio_alto;Patrimônio médio-alto - veicular diversificado;PARDA;15;74;0.20270270270270271
+DS_COR_RACA;03_medio_alto;Patrimônio médio-alto - veicular diversificado;PRETA;5;74;0.06756756756756757
+DS_COR_RACA;03_medio_alto;Patrimônio médio-alto - veicular diversificado;AMARELA;1;74;0.013513513513513514
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;BRANCA;26;34;0.7647058823529411
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;PARDA;4;34;0.11764705882352941
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;PRETA;3;34;0.08823529411764706
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;INDÍGENA;1;34;0.029411764705882353
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;PARDA;12;21;0.5714285714285714
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;BRANCA;9;21;0.42857142857142855
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;BRANCA;23;48;0.4791666666666667
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;PARDA;21;48;0.4375
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;PRETA;4;48;0.08333333333333333
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;BRANCA;8;13;0.6153846153846154
+DS_COR_RACA;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;PARDA;5;13;0.38461538461538464
+DS_GENERO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;MASCULINO;131;141;0.9290780141843972
+DS_GENERO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;FEMININO;10;141;0.07092198581560284
+DS_GENERO;01_baixo;Baixo patrimônio - financeiro concentrado;MASCULINO;26;42;0.6190476190476191
+DS_GENERO;01_baixo;Baixo patrimônio - financeiro concentrado;FEMININO;16;42;0.38095238095238093
+DS_GENERO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;MASCULINO;10;15;0.6666666666666666
+DS_GENERO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;FEMININO;5;15;0.3333333333333333
+DS_GENERO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;MASCULINO;62;77;0.8051948051948052
+DS_GENERO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;FEMININO;15;77;0.19480519480519481
+DS_GENERO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;MASCULINO;60;74;0.8108108108108109
+DS_GENERO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;FEMININO;14;74;0.1891891891891892
+DS_GENERO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;MASCULINO;25;34;0.7352941176470589
+DS_GENERO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;FEMININO;9;34;0.2647058823529412
+DS_GENERO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;MASCULINO;16;21;0.7619047619047619
+DS_GENERO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;FEMININO;5;21;0.23809523809523808
+DS_GENERO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;MASCULINO;36;48;0.75
+DS_GENERO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;FEMININO;12;48;0.25
+DS_GENERO;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;MASCULINO;11;13;0.8461538461538461
+DS_GENERO;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;FEMININO;2;13;0.15384615384615385
+DS_GRAU_INSTRUCAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;SUPERIOR COMPLETO;123;141;0.8723404255319149
+DS_GRAU_INSTRUCAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;ENSINO MÉDIO COMPLETO;9;141;0.06382978723404255
+DS_GRAU_INSTRUCAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;SUPERIOR INCOMPLETO;8;141;0.05673758865248227
+DS_GRAU_INSTRUCAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;ENSINO MÉDIO INCOMPLETO;1;141;0.0070921985815602835
+DS_GRAU_INSTRUCAO;01_baixo;Baixo patrimônio - financeiro concentrado;SUPERIOR COMPLETO;29;42;0.6904761904761905
+DS_GRAU_INSTRUCAO;01_baixo;Baixo patrimônio - financeiro concentrado;ENSINO MÉDIO COMPLETO;7;42;0.16666666666666666
+DS_GRAU_INSTRUCAO;01_baixo;Baixo patrimônio - financeiro concentrado;SUPERIOR INCOMPLETO;6;42;0.14285714285714285
+DS_GRAU_INSTRUCAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;SUPERIOR COMPLETO;11;15;0.7333333333333333
+DS_GRAU_INSTRUCAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;SUPERIOR INCOMPLETO;3;15;0.2
+DS_GRAU_INSTRUCAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;ENSINO MÉDIO COMPLETO;1;15;0.06666666666666667
+DS_GRAU_INSTRUCAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;SUPERIOR COMPLETO;60;77;0.7792207792207793
+DS_GRAU_INSTRUCAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;ENSINO MÉDIO COMPLETO;8;77;0.1038961038961039
+DS_GRAU_INSTRUCAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;SUPERIOR INCOMPLETO;7;77;0.09090909090909091
+DS_GRAU_INSTRUCAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;ENSINO FUNDAMENTAL COMPLETO;1;77;0.012987012987012988
+DS_GRAU_INSTRUCAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;ENSINO MÉDIO INCOMPLETO;1;77;0.012987012987012988
+DS_GRAU_INSTRUCAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;SUPERIOR COMPLETO;50;74;0.6756756756756757
+DS_GRAU_INSTRUCAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;SUPERIOR INCOMPLETO;12;74;0.16216216216216217
+DS_GRAU_INSTRUCAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;ENSINO MÉDIO COMPLETO;11;74;0.14864864864864866
+DS_GRAU_INSTRUCAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;LÊ E ESCREVE;1;74;0.013513513513513514
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;SUPERIOR COMPLETO;32;34;0.9411764705882353
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;ENSINO MÉDIO COMPLETO;2;34;0.058823529411764705
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;SUPERIOR COMPLETO;14;21;0.6666666666666666
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;ENSINO MÉDIO COMPLETO;5;21;0.23809523809523808
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;SUPERIOR INCOMPLETO;2;21;0.09523809523809523
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;SUPERIOR COMPLETO;36;48;0.75
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;ENSINO MÉDIO COMPLETO;6;48;0.125
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;SUPERIOR INCOMPLETO;4;48;0.08333333333333333
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;ENSINO FUNDAMENTAL INCOMPLETO;2;48;0.041666666666666664
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;SUPERIOR COMPLETO;12;13;0.9230769230769231
+DS_GRAU_INSTRUCAO;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;SUPERIOR INCOMPLETO;1;13;0.07692307692307693
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;DEPUTADO;64;141;0.45390070921985815
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;EMPRESÁRIO;22;141;0.15602836879432624
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;ADVOGADO;19;141;0.1347517730496454
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;MÉDICO;14;141;0.09929078014184398
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;ADMINISTRADOR;6;141;0.0425531914893617
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;ENGENHEIRO;4;141;0.028368794326241134
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;COMERCIANTE;2;141;0.014184397163120567
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;PRODUTOR AGROPECUÁRIO;2;141;0.014184397163120567
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;BOMBEIRO MILITAR;1;141;0.0070921985815602835
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;ENFERMEIRO;1;141;0.0070921985815602835
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;GOVERNADOR;1;141;0.0070921985815602835
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;JORNALISTA E REDATOR;1;141;0.0070921985815602835
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;PUBLICITÁRIO;1;141;0.0070921985815602835
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;SENADOR, DEPUTADO E VEREADOR;1;141;0.0070921985815602835
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;SERVIDOR PÚBLICO ESTADUAL;1;141;0.0070921985815602835
+DS_OCUPACAO;04_alto;Alto patrimônio - imobiliário diversificado com societário e créditos e direitos;SERVIDOR PÚBLICO FEDERAL;1;141;0.0070921985815602835
+DS_OCUPACAO;01_baixo;Baixo patrimônio - financeiro concentrado;DEPUTADO;17;42;0.40476190476190477
+DS_OCUPACAO;01_baixo;Baixo patrimônio - financeiro concentrado;VEREADOR;8;42;0.19047619047619047
+DS_OCUPACAO;01_baixo;Baixo patrimônio - financeiro concentrado;ADVOGADO;5;42;0.11904761904761904
+DS_OCUPACAO;01_baixo;Baixo patrimônio - financeiro concentrado;OUTROS;5;42;0.11904761904761904
+DS_OCUPACAO;01_baixo;Baixo patrimônio - financeiro concentrado;PROFESSOR DE ENSINO MÉDIO;2;42;0.047619047619047616
+DS_OCUPACAO;01_baixo;Baixo patrimônio - financeiro concentrado;EMPRESÁRIO;1;42;0.023809523809523808
+DS_OCUPACAO;01_baixo;Baixo patrimônio - financeiro concentrado;ESTUDANTE, BOLSISTA, ESTAGIÁRIO E ASSEMELHADOS;1;42;0.023809523809523808
+DS_OCUPACAO;01_baixo;Baixo patrimônio - financeiro concentrado;SACERDOTE OU MEMBRO DE ORDEM OU SEITA RELIGIOSA;1;42;0.023809523809523808
+DS_OCUPACAO;01_baixo;Baixo patrimônio - financeiro concentrado;SERVIDOR PÚBLICO ESTADUAL;1;42;0.023809523809523808
+DS_OCUPACAO;01_baixo;Baixo patrimônio - financeiro concentrado;SUPERVISOR, INSPETOR E AGENTE DE COMPRAS E VENDAS;1;42;0.023809523809523808
+DS_OCUPACAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;VEREADOR;4;15;0.26666666666666666
+DS_OCUPACAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;ADMINISTRADOR;2;15;0.13333333333333333
+DS_OCUPACAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;DEPUTADO;2;15;0.13333333333333333
+DS_OCUPACAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;AGRICULTOR;1;15;0.06666666666666667
+DS_OCUPACAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;ASSISTENTE SOCIAL;1;15;0.06666666666666667
+DS_OCUPACAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;ESTUDANTE, BOLSISTA, ESTAGIÁRIO E ASSEMELHADOS;1;15;0.06666666666666667
+DS_OCUPACAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;JORNALISTA E REDATOR;1;15;0.06666666666666667
+DS_OCUPACAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;PEDAGOGO;1;15;0.06666666666666667
+DS_OCUPACAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;PROFESSOR DE ENSINO SUPERIOR;1;15;0.06666666666666667
+DS_OCUPACAO;01_baixo;Baixo patrimônio - veicular concentrado com financeiro e societário;SENADOR;1;15;0.06666666666666667
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;DEPUTADO;33;77;0.42857142857142855
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;EMPRESÁRIO;8;77;0.1038961038961039
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;ADVOGADO;7;77;0.09090909090909091
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;JORNALISTA E REDATOR;3;77;0.03896103896103896
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;OUTROS;3;77;0.03896103896103896
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;VEREADOR;3;77;0.03896103896103896
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;APOSENTADO (EXCETO SERVIDOR PÚBLICO);2;77;0.025974025974025976
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;MÉDICO;2;77;0.025974025974025976
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;PROFESSOR DE ENSINO SUPERIOR;2;77;0.025974025974025976
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;ADMINISTRADOR;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;AGRÔNOMO;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;BANCÁRIO E ECONOMIÁRIO;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;CORRETOR DE IMÓVEIS, SEGUROS, TÍTULOS E VALORES;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;ENGENHEIRO;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;GOVERNADOR;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;ODONTÓLOGO;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;POLICIAL CIVIL;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;PROFESSOR DE ENSINO FUNDAMENTAL;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;PROFESSOR DE ENSINO MÉDIO;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;PROFESSOR E INSTRUTOR DE FORMAÇÃO PROFISSIONAL;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;REPRESENTANTE COMERCIAL;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;SOCIÓLOGO;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - imobiliário concentrado com financeiro e societário;VETERINÁRIO;1;77;0.012987012987012988
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;DEPUTADO;33;74;0.44594594594594594
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;EMPRESÁRIO;13;74;0.17567567567567569
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;ADVOGADO;5;74;0.06756756756756757
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;MÉDICO;4;74;0.05405405405405406
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;VEREADOR;4;74;0.05405405405405406
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;JORNALISTA E REDATOR;3;74;0.04054054054054054
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;OUTROS;2;74;0.02702702702702703
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;ADMINISTRADOR;1;74;0.013513513513513514
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;ENFERMEIRO;1;74;0.013513513513513514
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;ENGENHEIRO;1;74;0.013513513513513514
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;ESCRITOR E CRÍTICO;1;74;0.013513513513513514
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;NUTRICIONISTA E ASSEMELHADOS;1;74;0.013513513513513514
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;PECUARISTA;1;74;0.013513513513513514
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;POLICIAL MILITAR;1;74;0.013513513513513514
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;PROFESSOR E INSTRUTOR DE FORMAÇÃO PROFISSIONAL;1;74;0.013513513513513514
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;SERVIDOR PÚBLICO ESTADUAL;1;74;0.013513513513513514
+DS_OCUPACAO;03_medio_alto;Patrimônio médio-alto - veicular diversificado;SERVIDOR PÚBLICO FEDERAL;1;74;0.013513513513513514
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;DEPUTADO;18;34;0.5294117647058824
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;ADMINISTRADOR;3;34;0.08823529411764706
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;ADVOGADO;3;34;0.08823529411764706
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;VEREADOR;2;34;0.058823529411764705
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;CIENTISTA POLÍTICO;1;34;0.029411764705882353
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;GOVERNADOR;1;34;0.029411764705882353
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;HISTORIADOR;1;34;0.029411764705882353
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;MÉDICO;1;34;0.029411764705882353
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;OUTROS;1;34;0.029411764705882353
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;PROFESSOR DE ENSINO MÉDIO;1;34;0.029411764705882353
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;SACERDOTE OU MEMBRO DE ORDEM OU SEITA RELIGIOSA;1;34;0.029411764705882353
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - imobiliário concentrado com financeiro e societário;TRABALHADOR METALÚRGICO E SIDERÚRGICO;1;34;0.029411764705882353
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;EMPRESÁRIO;7;21;0.3333333333333333
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;DEPUTADO;5;21;0.23809523809523808
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;ADVOGADO;2;21;0.09523809523809523
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;OUTROS;2;21;0.09523809523809523
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;VEREADOR;2;21;0.09523809523809523
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;COMERCIANTE;1;21;0.047619047619047616
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;DONA DE CASA;1;21;0.047619047619047616
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - societário + veicular;JORNALISTA E REDATOR;1;21;0.047619047619047616
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;DEPUTADO;23;48;0.4791666666666667
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;OUTROS;6;48;0.125
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;VEREADOR;5;48;0.10416666666666667
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;ADVOGADO;3;48;0.0625
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;MÉDICO;2;48;0.041666666666666664
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;ADMINISTRADOR;1;48;0.020833333333333332
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;ASSISTENTE SOCIAL;1;48;0.020833333333333332
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;BANCÁRIO E ECONOMIÁRIO;1;48;0.020833333333333332
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;ECONOMISTA;1;48;0.020833333333333332
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;ENFERMEIRO;1;48;0.020833333333333332
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;MECÂNICO DE MANUTENÇÃO;1;48;0.020833333333333332
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;PEDAGOGO;1;48;0.020833333333333332
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;SACERDOTE OU MEMBRO DE ORDEM OU SEITA RELIGIOSA;1;48;0.020833333333333332
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular + financeiro;SERVIDOR PÚBLICO ESTADUAL;1;48;0.020833333333333332
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;DEPUTADO;6;13;0.46153846153846156
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;MÉDICO;2;13;0.15384615384615385
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;OUTROS;2;13;0.15384615384615385
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;ADMINISTRADOR;1;13;0.07692307692307693
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;EMPRESÁRIO;1;13;0.07692307692307693
+DS_OCUPACAO;02_medio_baixo;Patrimônio médio-baixo - veicular concentrado;VEREADOR;1;13;0.07692307692307693
